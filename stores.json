@@ -1,12 +1,140 @@
 [
-  { "name": "Costco Downtown Toronto", "lat": 43.6532, "lng": -79.3832, "address": "Toronto, ON" },
-  { "name": "Whole Foods Yorkville", "lat": 43.6708, "lng": -79.3948, "address": "Toronto, ON" },
-  { "name": "Loblaws Maple Leaf Gardens", "lat": 43.6615, "lng": -79.3793, "address": "Toronto, ON" },
-  { "name": "Metro Liberty Village", "lat": 43.6396, "lng": -79.4244, "address": "Toronto, ON" },
-  { "name": "Longo’s Vaughan", "lat": 43.8361, "lng": -79.4983, "address": "Vaughan, ON" },
-  { "name": "Fortinos Brampton", "lat": 43.7315, "lng": -79.7624, "address": "Brampton, ON" },
-  { "name": "Farm Boy Etobicoke", "lat": 43.6205, "lng": -79.5132, "address": "Etobicoke, ON" },
-  { "name": "FreshCo Mississauga", "lat": 43.5890, "lng": -79.6441, "address": "Mississauga, ON" },
-  { "name": "No Frills Scarborough", "lat": 43.7731, "lng": -79.2578, "address": "Scarborough, ON" },
-  { "name": "Sobeys North York", "lat": 43.7615, "lng": -79.4111, "address": "North York, ON" }
+  {
+    "name": "Cheese Boutique",
+    "address": "45 Ripley Ave, Toronto, ON M6S 3P2",
+    "lat": 43.6394,
+    "lng": -79.4764
+  },
+  {
+    "name": "Sanagan's Meat Locker",
+    "address": "176 Baldwin St, Toronto, ON M5T 1L8",
+    "lat": 43.6545,
+    "lng": -79.4005
+  },
+  {
+    "name": "Scheffler's Delicatessen",
+    "address": "93 Front St E, Toronto, ON M5E 1C3",
+    "lat": 43.6489,
+    "lng": -79.3715
+  },
+  {
+    "name": "The Big Carrot",
+    "address": "125 Southwood Dr, Toronto, ON M4E 0B8",
+    "lat": 43.6791,
+    "lng": -79.3001
+  },
+  {
+    "name": "The Meat Department",
+    "address": "207 Danforth Ave, Toronto, ON M4K 1N2",
+    "lat": 43.6766,
+    "lng": -79.3568
+  },
+  {
+    "name": "Yours Food Mart",
+    "address": "2900 Warden Ave, Scarborough, ON",
+    "lat": 43.7952,
+    "lng": -79.3204
+  },
+  {
+    "name": "Namaste India",
+    "address": "85 Kingston Rd E Unit 13-15, Ajax, ON",
+    "lat": 43.8617,
+    "lng": -79.0232
+  },
+  {
+    "name": "Namaste India (Scarborough)",
+    "address": "820 Markham Rd Unit 2, Scarborough, ON",
+    "lat": 43.7742,
+    "lng": -79.2325
+  },
+  {
+    "name": "Indian Sabzi Bazaar",
+    "address": "10950 Goreway Dr, Brampton, ON",
+    "lat": 43.7667,
+    "lng": -79.7185
+  },
+  {
+    "name": "Bruno's Fine Foods",
+    "address": "1882 Queen St E, Toronto, ON M4L 1H5",
+    "lat": 43.6698,
+    "lng": -79.3054
+  },
+  {
+    "name": "City Cottage Market",
+    "address": "1427 Kingston Rd, Scarborough, ON",
+    "lat": 43.6922,
+    "lng": -79.2635
+  },
+  {
+    "name": "Havaris Produce",
+    "address": "Covent Garden Market Bldg, 130 King St, London, ON",
+    "lat": 42.9831,
+    "lng": -81.2505
+  },
+  {
+    "name": "Cheesy Place",
+    "address": "2940 Bloor St W, Etobicoke, ON",
+    "lat": 43.6486,
+    "lng": -79.5109
+  },
+  {
+    "name": "Lobster Baron",
+    "address": "677 Marksbury Rd, Pickering, ON",
+    "lat": 43.8115,
+    "lng": -79.1026
+  },
+  {
+    "name": "Remark London",
+    "address": "1190 Oxford St W, London, ON N6H 1V9",
+    "lat": 42.9734,
+    "lng": -81.3218
+  },
+  {
+    "name": "Sanagan's Meat Locker (Annette)",
+    "address": "515 Annette St, Toronto, ON M6P 1S8",
+    "lat": 43.6622,
+    "lng": -79.4812
+  },
+  {
+    "name": "The Big Carrot Beach Community",
+    "address": "125 Southwood Dr, Toronto, ON",
+    "lat": 43.6791,
+    "lng": -79.3001
+  },
+  {
+    "name": "The Butcher Shop",
+    "address": "3487 Kingston Rd, Scarborough, ON",
+    "lat": 43.7388,
+    "lng": -79.2231
+  },
+  {
+    "name": "Cabbagetown Organics",
+    "address": "499 Parliament St, Toronto, ON M4X 1P3",
+    "lat": 43.6653,
+    "lng": -79.3678
+  },
+  {
+    "name": "Courage Foods",
+    "address": "976 Kingston Rd, Toronto, ON M4E 1S5",
+    "lat": 43.6795,
+    "lng": -79.2885
+  },
+  {
+    "name": "McEwan Foods",
+    "address": "Toronto-Dominion Centre, 66 Wellington St W, Toronto, ON",
+    "lat": 43.6475,
+    "lng": -79.3815
+  },
+  {
+    "name": "Snappers Fish Market",
+    "address": "263 Durie St, Toronto, ON M6S 3G2",
+    "lat": 43.6521,
+    "lng": -79.4792
+  },
+  {
+    "name": "Whole Foods Market (Bayview)",
+    "address": "1860 Bayview Ave, Toronto, ON M4G 3C9",
+    "lat": 43.7125,
+    "lng": -79.3768
+  }
 ]
