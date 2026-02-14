@@ -1,20 +1,12 @@
 [
-  {
-    "name": "Costco Toronto",
-    "lat": 43.6532,
-    "lng": -79.3832,
-    "address": "Toronto, ON"
-  },
-  {
-    "name": "Whole Foods Vancouver",
-    "lat": 49.2827,
-    "lng": -123.1207,
-    "address": "Vancouver, BC"
-  },
-  {
-    "name": "Calgary Downtown Market",
-    "lat": 51.0447,
-    "lng": -114.0719,
-    "address": "Calgary, AB"
-  }
+  { "name": "Costco Downtown Toronto", "lat": 43.6532, "lng": -79.3832, "address": "Toronto, ON" },
+  { "name": "Whole Foods Yorkville", "lat": 43.6708, "lng": -79.3948, "address": "Toronto, ON" },
+  { "name": "Loblaws Maple Leaf Gardens", "lat": 43.6615, "lng": -79.3793, "address": "Toronto, ON" },
+  { "name": "Metro Liberty Village", "lat": 43.6396, "lng": -79.4244, "address": "Toronto, ON" },
+  { "name": "Longo’s Vaughan", "lat": 43.8361, "lng": -79.4983, "address": "Vaughan, ON" },
+  { "name": "Fortinos Brampton", "lat": 43.7315, "lng": -79.7624, "address": "Brampton, ON" },
+  { "name": "Farm Boy Etobicoke", "lat": 43.6205, "lng": -79.5132, "address": "Etobicoke, ON" },
+  { "name": "FreshCo Mississauga", "lat": 43.5890, "lng": -79.6441, "address": "Mississauga, ON" },
+  { "name": "No Frills Scarborough", "lat": 43.7731, "lng": -79.2578, "address": "Scarborough, ON" },
+  { "name": "Sobeys North York", "lat": 43.7615, "lng": -79.4111, "address": "North York, ON" }
 ]
