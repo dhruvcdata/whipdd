@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Costco Toronto",
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "address": "Toronto, ON"
+  },
+  {
+    "name": "Whole Foods Vancouver",
+    "lat": 49.2827,
+    "lng": -123.1207,
+    "address": "Vancouver, BC"
+  },
+  {
+    "name": "Calgary Downtown Market",
+    "lat": 51.0447,
+    "lng": -114.0719,
+    "address": "Calgary, AB"
+  }
+]
