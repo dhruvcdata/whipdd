@@ -1,140 +1,88 @@
 [
-  {
-    "name": "Cheese Boutique",
-    "address": "45 Ripley Ave, Toronto, ON M6S 3P2",
-    "lat": 43.6394,
-    "lng": -79.4764
-  },
-  {
-    "name": "Sanagan's Meat Locker",
-    "address": "176 Baldwin St, Toronto, ON M5T 1L8",
-    "lat": 43.6545,
-    "lng": -79.4005
-  },
-  {
-    "name": "Scheffler's Delicatessen",
-    "address": "93 Front St E, Toronto, ON M5E 1C3",
-    "lat": 43.6489,
-    "lng": -79.3715
-  },
-  {
-    "name": "The Big Carrot",
-    "address": "125 Southwood Dr, Toronto, ON M4E 0B8",
-    "lat": 43.6791,
-    "lng": -79.3001
-  },
-  {
-    "name": "The Meat Department",
-    "address": "207 Danforth Ave, Toronto, ON M4K 1N2",
-    "lat": 43.6766,
-    "lng": -79.3568
-  },
-  {
-    "name": "Yours Food Mart",
-    "address": "2900 Warden Ave, Scarborough, ON",
-    "lat": 43.7952,
-    "lng": -79.3204
-  },
-  {
-    "name": "Namaste India",
-    "address": "85 Kingston Rd E Unit 13-15, Ajax, ON",
-    "lat": 43.8617,
-    "lng": -79.0232
-  },
-  {
-    "name": "Namaste India (Scarborough)",
-    "address": "820 Markham Rd Unit 2, Scarborough, ON",
-    "lat": 43.7742,
-    "lng": -79.2325
-  },
-  {
-    "name": "Indian Sabzi Bazaar",
-    "address": "10950 Goreway Dr, Brampton, ON",
-    "lat": 43.7667,
-    "lng": -79.7185
-  },
-  {
-    "name": "Bruno's Fine Foods",
-    "address": "1882 Queen St E, Toronto, ON M4L 1H5",
-    "lat": 43.6698,
-    "lng": -79.3054
-  },
-  {
-    "name": "City Cottage Market",
-    "address": "1427 Kingston Rd, Scarborough, ON",
-    "lat": 43.6922,
-    "lng": -79.2635
-  },
-  {
-    "name": "Havaris Produce",
-    "address": "Covent Garden Market Bldg, 130 King St, London, ON",
-    "lat": 42.9831,
-    "lng": -81.2505
-  },
-  {
-    "name": "Cheesy Place",
-    "address": "2940 Bloor St W, Etobicoke, ON",
-    "lat": 43.6486,
-    "lng": -79.5109
-  },
-  {
-    "name": "Lobster Baron",
-    "address": "677 Marksbury Rd, Pickering, ON",
-    "lat": 43.8115,
-    "lng": -79.1026
-  },
-  {
-    "name": "Remark London",
-    "address": "1190 Oxford St W, London, ON N6H 1V9",
-    "lat": 42.9734,
-    "lng": -81.3218
-  },
-  {
-    "name": "Sanagan's Meat Locker (Annette)",
-    "address": "515 Annette St, Toronto, ON M6P 1S8",
-    "lat": 43.6622,
-    "lng": -79.4812
-  },
-  {
-    "name": "The Big Carrot Beach Community",
-    "address": "125 Southwood Dr, Toronto, ON",
-    "lat": 43.6791,
-    "lng": -79.3001
-  },
-  {
-    "name": "The Butcher Shop",
-    "address": "3487 Kingston Rd, Scarborough, ON",
-    "lat": 43.7388,
-    "lng": -79.2231
-  },
-  {
-    "name": "Cabbagetown Organics",
-    "address": "499 Parliament St, Toronto, ON M4X 1P3",
-    "lat": 43.6653,
-    "lng": -79.3678
-  },
-  {
-    "name": "Courage Foods",
-    "address": "976 Kingston Rd, Toronto, ON M4E 1S5",
-    "lat": 43.6795,
-    "lng": -79.2885
-  },
-  {
-    "name": "McEwan Foods",
-    "address": "Toronto-Dominion Centre, 66 Wellington St W, Toronto, ON",
-    "lat": 43.6475,
-    "lng": -79.3815
-  },
-  {
-    "name": "Snappers Fish Market",
-    "address": "263 Durie St, Toronto, ON M6S 3G2",
-    "lat": 43.6521,
-    "lng": -79.4792
-  },
-  {
-    "name": "Whole Foods Market (Bayview)",
-    "address": "1860 Bayview Ave, Toronto, ON M4G 3C9",
-    "lat": 43.7125,
-    "lng": -79.3768
-  }
+  { "name": "AGRARIAN MARKET", "address": "4 LAKE ST, PICTON, ON", "lat": 44.0076, "lng": -77.1425 },
+  { "name": "ASKEW'S FOODS 0004 SALMON ARM", "address": "2701 11TH AVE NE, SALMON ARM, BC", "lat": 50.7107, "lng": -119.2458 },
+  { "name": "B&H GROCER", "address": "301 RIDEAU LANE, KEMPTVILLE, ON", "lat": 45.0142, "lng": -75.6465 },
+  { "name": "BELICH'S AG FOODS", "address": "5350 9TH AVE #10, OKANAGAN FALLS, BC", "lat": 49.3444, "lng": -119.5644 },
+  { "name": "BRANDT MEAT & DELI", "address": "1878 MATTAWA AVE, MISSISSAUGA, ON", "lat": 43.6011, "lng": -79.5801 },
+  { "name": "BRIDGELAND MARKET", "address": "1104 1 AVE NE, CALGARY, AB", "lat": 51.0504, "lng": -114.0371 },
+  { "name": "BRUNO'S FINE FOODS", "address": "1880-1882 QUEEN ST E, TORONTO, ON", "lat": 43.6695, "lng": -79.3032 },
+  { "name": "BRUNO'S FINE FOODS", "address": "4242 DUNDAS ST W, ETOBICOKE, ON", "lat": 43.6517, "lng": -79.5186 },
+  { "name": "BRUNO'S SIGNATURE", "address": "375 KINGSTON RD, PICKERING, ON", "lat": 43.8329, "lng": -79.1246 },
+  { "name": "BUSSIERE'S SAUSAGE", "address": "33 2ND ST, COCHRANE, ON", "lat": 49.0631, "lng": -81.0234 },
+  { "name": "CALGARY CO-OP 0724 HIGH RIVER", "address": "1220 1 ST SE, HIGH RIVER, AB", "lat": 50.5741, "lng": -113.8653 },
+  { "name": "CALGARY CO-OP 701 MIDTOWN", "address": "1130 11 AVE SW, CALGARY, AB", "lat": 51.0429, "lng": -114.0886 },
+  { "name": "CALGARY CO-OP 702 NORTH HILL", "address": "540 16 AVE NE, CALGARY, AB", "lat": 51.0664, "lng": -114.0519 },
+  { "name": "CALGARY CO-OP 703 MACLEOD TRAIL", "address": "8818 MACLEOD TRAIL SE, CALGARY, AB", "lat": 50.9743, "lng": -114.0722 },
+  { "name": "CALGARY CO-OP 704 BRENTWOOD", "address": "4122 BRENTWOOD RD NW, CALGARY, AB", "lat": 51.0874, "lng": -114.1296 },
+  { "name": "CALGARY CO-OP 705 FOREST LAWN", "address": "3330 17 AVE SE, CALGARY, AB", "lat": 51.0374, "lng": -113.9875 },
+  { "name": "CALGARY CO-OP 706 RICHMOND HILL", "address": "4940 RICHMOND RD SW, CALGARY, AB", "lat": 51.0189, "lng": -114.1565 },
+  { "name": "CALGARY CO-OP 707 DALHOUSIE", "address": "5505 SHAGANAPPI TRAIL NW, CALGARY, AB", "lat": 51.1037, "lng": -114.1614 },
+  { "name": "CALGARY CO-OP 708 OAKRIDGE", "address": "2580 SOUTHLAND DR SW, CALGARY, AB", "lat": 50.9634, "lng": -114.1197 },
+  { "name": "CALGARY CO-OP 711 DEER VALLEY", "address": "1221 CANYON MEADOWS DR SE, CALGARY, AB", "lat": 50.9332, "lng": -114.0329 },
+  { "name": "CALGARY CO-OP 713 CROWFOOT", "address": "35 CROWFOOT WAY NW, CALGARY, AB", "lat": 51.1245, "lng": -114.2081 },
+  { "name": "CALGARY CO-OP 714 SHAWNESSY", "address": "250 SHAWVILLE BLVD SE, CALGARY, AB", "lat": 50.9023, "lng": -114.0674 },
+  { "name": "CALGARY CO-OP 715 MONTEREY", "address": "2200 68 ST NE, CALGARY, AB", "lat": 51.0728, "lng": -113.9361 },
+  { "name": "CALGARY CO-OP 719 AIRDRIE-SIERRA", "address": "2700 MAIN ST, AIRDRIE, AB", "lat": 51.2691, "lng": -114.0125 },
+  { "name": "CALGARY CO-OP 720 ROCKY RIDGE", "address": "11595 ROCKYVALLEY DR NW, CALGARY, AB", "lat": 51.1578, "lng": -114.2384 },
+  { "name": "CALGARY CO-OP 721 WEST SPRINGS", "address": "917 85 ST SW, CALGARY, AB", "lat": 51.0505, "lng": -114.1985 },
+  { "name": "CALGARY CO-OP 722 CREEKSIDE", "address": "12626 SYMONS VALLEY RD, CALGARY, AB", "lat": 51.1672, "lng": -114.1352 },
+  { "name": "CALGARY CO-OP 723 QUARRY PARK", "address": "163 QUARRY PARK BLVD SE, CALGARY, AB", "lat": 50.9678, "lng": -114.0152 },
+  { "name": "CALGARY CO-OP 725 STRATHMORE", "address": "100 EDGEFIELD PL, STRATHMORE, AB", "lat": 51.0558, "lng": -113.3854 },
+  { "name": "CALGARY CO-OP 726 AUBURN BAY", "address": "100 AUBURN MEADOWS DR SE, CALGARY, AB", "lat": 50.8924, "lng": -113.9482 },
+  { "name": "CALGARY CO-OP 728 GREYSTONE", "address": "264 PARK STREET UNIT #10, COCHRANE, AB", "lat": 51.1891, "lng": -114.4608 },
+  { "name": "CEDARS & CO. FOOD MARKET", "address": "1255 BANK ST, OTTAWA, ON", "lat": 45.3932, "lng": -75.6811 },
+  { "name": "CHOICES 4607 KELOWNA", "address": "1937 HARVEY AVE, KELOWNA, BC", "lat": 49.8821, "lng": -119.4589 },
+  { "name": "CHOICES 4609 WEST 16", "address": "2627 16TH AVE W, VANCOUVER, BC", "lat": 49.2575, "lng": -123.1643 },
+  { "name": "CHOICES 4612 WEST 57", "address": "1880 57TH AVE W, VANCOUVER, BC", "lat": 49.2195, "lng": -123.1492 },
+  { "name": "CIOFFI'S - HASTINGS STREET", "address": "4156 HASTING ST, BURNABY, BC", "lat": 49.2811, "lng": -123.0114 },
+  { "name": "CLOVERDALE SAUSAGE & MEAT", "address": "5804 176 ST, SURREY, BC", "lat": 49.1082, "lng": -122.7348 },
+  { "name": "COUNTRY PRODUCE", "address": "301 WESTMOUNT DR, ORILLIA, ON", "lat": 44.6042, "lng": -79.4385 },
+  { "name": "DAD'S ORGANIC MARKET SASKATOON", "address": "1820 8TH ST E UNIT 240A, SASKATOON, SK", "lat": 52.1191, "lng": -106.6268 },
+  { "name": "DI PIETRO FRESH MEAT AND DELIC", "address": "30 GLAMIS RD, CAMBRIDGE, ON", "lat": 43.3761, "lng": -80.3014 },
+  { "name": "DONALD'S MKT HASTINGS ST", "address": "2342 HASTINGS ST E, VANCOUVER, BC", "lat": 49.2813, "lng": -123.0569 },
+  { "name": "DUKE FINE FOODS", "address": "2120 ROBERTSON RD UNIT 110, NEPEAN, ON", "lat": 45.3314, "lng": -75.8336 },
+  { "name": "DUMOUCHEL MEAT & DELI", "address": "351 DONALD ST, OTTAWA, ON", "lat": 45.4265, "lng": -75.6596 },
+  { "name": "FERRARO FOODS ROSSLAND", "address": "2029 COLUMBIA AVE, ROSSLAND, BC", "lat": 49.0768, "lng": -117.7981 },
+  { "name": "FERRARO FOODS TRAIL DIRECT", "address": "850 FARWELL ST, TRAIL, BC", "lat": 49.0967, "lng": -117.7081 },
+  { "name": "G.J. ANDREWS FOOD & WINE SHOPPE", "address": "384 ACADEMY RD, WINNIPEG, MB", "lat": 49.8735, "lng": -97.1857 },
+  { "name": "GIBSONS BUTCHER", "address": "978 VENTURE WAY, GIBSONS, BC", "lat": 49.4089, "lng": -123.5152 },
+  { "name": "GLEBE MEAT MARKET", "address": "869 BANK ST, OTTAWA, ON", "lat": 45.4005, "lng": -75.6871 },
+  { "name": "GREEN'S MARKET", "address": "1978 WEST BROADWAY, VANCOUVER, BC", "lat": 49.2638, "lng": -123.1495 },
+  { "name": "LA ROSE ITALIAN BAKERY & DELI", "address": "327 BRONTE ST, MILTON, ON", "lat": 43.5042, "lng": -79.8833 },
+  { "name": "LADY YORK", "address": "2939 DUFFERIN ST, NORTH YORK, ON", "lat": 43.7118, "lng": -79.4566 },
+  { "name": "MACMILLAN'S RETAIL", "address": "6834 HWY 7 W, ACTON, ON", "lat": 43.6285, "lng": -80.0465 },
+  { "name": "MARKET FRESH MEAT & PRODUCE", "address": "10 PAISLEY ST, GUELPH, ON", "lat": 43.5458, "lng": -80.2525 },
+  { "name": "MCEWAN ENTERPRISES INC.", "address": "38 KARL FRASER RD, NORTH YORK, ON", "lat": 43.7348, "lng": -79.3444 },
+  { "name": "MITCHELL BROTHERS", "address": "5687 MANSON AVE, POWELL RIVER, BC", "lat": 49.8715, "lng": -124.5458 },
+  { "name": "MURRAY'S FARM BUTCHER SHOPPE", "address": "182 OTTAWA ST N, HAMILTON, ON", "lat": 43.2481, "lng": -79.8175 },
+  { "name": "NATIONS FRESH FOOD MARKET", "address": "2 KING ST W UNIT 445, HAMILTON, ON", "lat": 43.2575, "lng": -79.8722 },
+  { "name": "NESVOG MEATS & SAUSAGE COMP LTD", "address": "1533 ESTEVAN RD, NANAIMO, BC", "lat": 49.1831, "lng": -123.9515 },
+  { "name": "NORTHUMBERLAND FINE FOOD", "address": "39 RICHARDSON STREET, BRIGHTON, ON", "lat": 44.0375, "lng": -77.7402 },
+  { "name": "OLD COUNTRY MKT ALBERNI DELI", "address": "2310 ALBERNI HWY, COOMBS, BC", "lat": 49.3031, "lng": -124.4231 },
+  { "name": "ONE FINE FOOD", "address": "800 ERSKINE AVE, PETERBOROUGH, ON", "lat": 44.2835, "lng": -78.3182 },
+  { "name": "PETE AND GUS MEAT MARKET", "address": "2201 JOCKVALE ROAD UNIT C, NEPEAN, ON", "lat": 45.2754, "lng": -75.7415 },
+  { "name": "PINO'S GET FRESH", "address": "219 TRUNK RD, SAULT STE. MARIE, ON", "lat": 46.5115, "lng": -84.2965 },
+  { "name": "PRINGLE CREEK MARKET (FOODLAND)", "address": "728 ANDERSON ST, WHITBY, ON", "lat": 43.9135, "lng": -78.9372 },
+  { "name": "PRODUCE DEPOT", "address": "1855 CARLING AVE, OTTAWA, ON", "lat": 45.3725, "lng": -75.7594 },
+  { "name": "QUALITY GREENS PENTICTON", "address": "300 RIVERSIDE DR, PENTICTON, BC", "lat": 49.5042, "lng": -119.6052 },
+  { "name": "REMARK FRESH MARKETS", "address": "1190 OXFORD ST, LONDON, ON", "lat": 42.9961, "lng": -81.2985 },
+  { "name": "RUDDY POTATO WHOLE FOOD MARKET", "address": "996 DORMAN RD, BOWEN ISLAND, BC", "lat": 49.3785, "lng": -123.3341 },
+  { "name": "SAHEL MARKET", "address": "1322 COMMERCIAL DR, VANCOUVER, BC", "lat": 49.2721, "lng": -123.0694 },
+  { "name": "SCHEFFLERS MEAT (CHEESE)", "address": "93 FRONT ST, TORONTO, ON", "lat": 43.6489, "lng": -79.3715 },
+  { "name": "SCHINKEL'S MEAT MARKET (CHEESE)", "address": "145 RICHMOND ST, CHATHAM, ON", "lat": 42.4048, "lng": -82.1932 },
+  { "name": "SCHINKEL'S MEAT MARKET (CHEESE)", "address": "24 TALBOT ST N, ESSEX, ON", "lat": 42.1764, "lng": -82.8122 },
+  { "name": "SHERWOOD COOP", "address": "5875 ROCHDALE BLVD, REGINA, SK", "lat": 50.4998, "lng": -104.6645 },
+  { "name": "SKEENA VALLEY MEATS LTD", "address": "4519 LAKELSE AVENUE, TERRACE, BC", "lat": 54.5165, "lng": -128.5991 },
+  { "name": "SMITH CHEESE LTD", "address": "130 KING ST, LONDON, ON", "lat": 42.9831, "lng": -81.2504 },
+  { "name": "STONG'S GROCERY", "address": "2150 DOLLARTON HWY, NORTH VANCOUVER, BC", "lat": 49.3092, "lng": -123.0035 },
+  { "name": "STONG'S MARKET - SURREY", "address": "9686 STREET UNIT 205, SURREY, BC", "lat": 49.1802, "lng": -122.8415 },
+  { "name": "STONG'S MARKETS L.P.", "address": "4221 DUNBAR ST, VANCOUVER, BC", "lat": 49.2485, "lng": -123.1852 },
+  { "name": "TESORO WINDERMERE", "address": "17304 HILLER RD SW, EDMONTON, AB", "lat": 53.4245, "lng": -113.6212 },
+  { "name": "THE COUNTRY BUTCHERY", "address": "166 RICHMOND BLVD, NAPANEE, ON", "lat": 44.2625, "lng": -76.9951 },
+  { "name": "THE OLD FARM MARKET COURTENAY", "address": "660 ENGLAND AVE, COURTENAY, BC", "lat": 49.6912, "lng": -124.9961 },
+  { "name": "TOP TEN PRODUCE", "address": "4536 10TH AVE W, VANCOUVER, BC", "lat": 49.2631, "lng": -123.2105 },
+  { "name": "TRADING POST QUALITY FOODS", "address": "1920 WHITFIELD RD, PORT PERRY, ON", "lat": 44.1165, "lng": -78.9665 },
+  { "name": "UNGER FARM MARKET (CHEESE)", "address": "1010 GAINSBOROUGH RD, LONDON, ON", "lat": 43.0125, "lng": -81.3341 },
+  { "name": "VINCENZO'S (CHEESE)", "address": "150 CAROLINE ST, WATERLOO, ON", "lat": 43.4612, "lng": -80.5225 },
+  { "name": "WAGLISLA BAND STORE", "address": "66 WAGLISLA ST, BELLA BELLA, BC", "lat": 52.1612, "lng": -128.1448 }
 ]
